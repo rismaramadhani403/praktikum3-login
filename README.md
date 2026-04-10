@@ -137,9 +137,9 @@ app/
 
 ## 👨‍💻 Tim Pengembang (Kelompok 4)
 
-* Risma Ramadhani
-* Wizad Akmalia Zulfa
-* Zefanya Christian Natasha
+* Risma Ramadhani (L0324030)
+* Wizad Akmalia Zulfa (L0324036)
+* Zefanya Christian Natasha (L0324037)
 
 ---
 
@@ -148,5 +148,8 @@ app/
 Aplikasi ini merupakan tahap awal dalam pengembangan sistem pemesanan menu café, dengan fokus pada autentikasi user sebagai fondasi utama sebelum masuk ke fitur pemesanan.
 
 ---
+## Link You Tube
+https://youtu.be/n1fADr9ku-E
 
+---
 
